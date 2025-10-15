@@ -1,5 +1,5 @@
 # NOTE 
-# Unauthorized access to a  system or Personal Indentifiable Information is Illegal. Always obtain written approval for an hacking activities.
+Unauthorized access to a  system or Personal Indentifiable Information is Illegal. Always obtain written approval for any hacking activities.
 
 # Apples-Farm
 A vulenrable web application used as a sandbox to learn and study various vulenrablilties. 
